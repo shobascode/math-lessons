@@ -1,2 +1,2 @@
 # math-lessons
-code for animations and full video files
+code for animations
