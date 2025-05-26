@@ -1,2 +1,2 @@
-# math-lessons
+# Luminisphere
 code for animations
